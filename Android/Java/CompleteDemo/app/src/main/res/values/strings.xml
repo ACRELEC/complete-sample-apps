@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Complete Demo</string>
+    <string name="location">Select Location: </string>
+    <string name="lat_label">Latitude: (not set)</string>
+    <string name="lng_label">Longitude: (not set)</string>
+    <string name="acc_label">Accuracy: (not set)</string>
+    <string name="lat">Latitude: %1$s</string>
+    <string name="lng">Longitude: %1$s</string>
+    <string name="duration">Estimate: (not set)</string>
+    <string name="estimate">Estimate: %1$s, Arrived: %2$s, Parked: %3$s, Spot: %4$s</string>
+    <string name="zero">0</string>
+    <string name="trackingId">Tracking Id: </string>
+    <string name="customer">Customer Name: </string>
+    <string name="accuracy">Accuracy: %1$s</string>
+    <string name="button_start">Start Tracking</string>
+    <string name="button_stop">Stop Tracking</string>
+    <string name="cancel_trip">Cancel Trip</string>
+    <string name="complete_trip">Complete Trip</string>
+    <string name="left_spot">Left Spot</string>
+</resources>
